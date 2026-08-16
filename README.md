@@ -2,7 +2,7 @@
 End-to-End Data Science &amp; Machine Learning Knowledge Base: Data Wrangling, Classical ML, Deep Learning, CV, NLP &amp; Production Workflows.
 
 
-# 🤖 End-to-End Data Science & Machine Learning Knowledge Base
+#  End-to-End Data Science & Machine Learning Knowledge Base
 
 > **Author:** Emine Nur AKTAŞ  
 > **Focus:** Data Wrangling, Statistical Learning, Deep Learning, Computer Vision, NLP & MLOps  
@@ -10,7 +10,7 @@ End-to-End Data Science &amp; Machine Learning Knowledge Base: Data Wrangling, C
 
 ---
 
-## 📌 About This Repository
+##  About This Repository
 
 This repository serves as a comprehensive knowledge base, practical laboratory, and project portfolio covering the complete data science lifecycle—from exploratory data analysis and database querying to production-ready machine learning and deep learning pipelines.
 
@@ -18,7 +18,7 @@ The goal is to bridge theoretical mathematical foundations with hands-on impleme
 
 ---
 
-## 🧭 Repository Architecture
+##  Repository Architecture
 
 ```text
 softito-data-science-bootcamp/
