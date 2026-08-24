@@ -93,7 +93,7 @@ softito-data-science-bootcamp/
 │   │   ├── 01_dockerfile_basics/
 │   │   └── 02_docker_compose_workflows/
 │   └── 02_business_intelligence/
-│       ├── 01_dashboard_designs/
+│       ├── 01_power_bi_dashboards/        
 │       └── 02_kpi_reporting_standards/
 │
 ├── 07_capstone_projects/
