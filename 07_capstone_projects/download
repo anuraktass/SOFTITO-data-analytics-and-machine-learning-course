@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Büyük veri / model dosyaları
+*.csv
+*.joblib
+*.pkl
+
+# İşletim sistemi / editör dosyaları
+.DS_Store
+.vscode/
+.idea/
+
+# Ortam değişkenleri
+.env
