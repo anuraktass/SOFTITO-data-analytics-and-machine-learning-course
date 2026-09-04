@@ -1,8 +1,8 @@
-# softito-data-science-bootcamp
+# softito-data-analytics-bootcamp
 End-to-End Data Science &amp; Machine Learning Knowledge Base: Data Wrangling, Classical ML, Deep Learning, CV, NLP &amp; Production Workflows.
 
 
-#  End-to-End Data Science & Machine Learning Knowledge Base
+#  End-to-End-data-analytics & Machine Learning Knowledge Base
 
 > **Author:** Emine Nur AKTAŞ  
 > **Focus:** Data Wrangling, Statistical Learning, Deep Learning, Computer Vision, NLP & MLOps  
